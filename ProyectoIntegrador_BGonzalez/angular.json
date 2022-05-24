@@ -27,9 +27,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
+              "ProyectoIntegrador_BGonzalez/node_modules/bootstrap/dist/csses.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador_BGonzalez/node_modules/bootstrap/dist/js"
+            ]
           },
           "configurations": {
             "production": {
